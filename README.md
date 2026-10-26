@@ -119,7 +119,7 @@ Contributions to expand and update this curated list are welcome!
 
 1. 🍴 **Fork** this repository.
 2. 🌿 Create a descriptive feature branch (`git checkout -b add-new-itam-tool`).
-3. ✍️ Add your recommended tool following the established table or markdown format (including exact pricing, free tier limits, and verifiable star badge links).
+3. ✍️ Add your recommended tool following the established table or markdown format (including exact pricing, free tier limits, and verifiable Stars_Badge links).
 4. 🚀 Commit your improvements (`git commit -m "feat: add NewTool to asset management list"`).
 5. 📤 Push to your branch (`git push origin add-new-itam-tool`) and open a Pull Request.
 
